@@ -2,7 +2,7 @@
 # -*- coding: utf-8; mode: ruby -*-
 # Function:
 #   Lazurite Sub-GHz/Lazurite Pi Gateway Sample program
-#   SerialMonitor.rb
+#   forked from SerialMonitor.rb
 
 require 'net/http'
 require 'date'
